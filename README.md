@@ -1,2 +1,16 @@
-# lazy-load-js
-Um projeto de Lazy Loading para imagens desenvolvido com HTML, CSS e JavaScript. Utiliza o Intersection Observer para carregar imagens em baixa resolução inicialmente e substituí-las por versões em alta qualidade conforme entram na área visível da página. Isso melhora a performance e a experiência do usuário.
+# Lazy Load com JavaScript
+
+Este projeto demonstra a técnica de Lazy Loading em imagens utilizando JavaScript puro. O objetivo é carregar imagens em baixa resolução inicialmente e substituí-las por versões de alta qualidade quando entram na área visível da página.
+
+## 🚀 Tecnologias Utilizadas
+
+- **HTML5**: Estrutura da página.
+- **CSS3**: Estilização da interface.
+- **JavaScript (ES6+)**: Implementação do Lazy Load usando Intersection Observer.
+
+## 🛠 Como Funciona
+
+1. As imagens na página são carregadas com uma largura mínima (`w=10`), ou seja, em baixa qualidade.
+2. Quando a imagem entra no campo de visão do usuário, o script substitui a URL da imagem para carregar uma versão em alta qualidade (`w=1000`).
+3. Isso melhora o desempenho da página, reduzindo o tempo de carregamento inicial.
+
