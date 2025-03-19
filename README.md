@@ -6,7 +6,7 @@ Este projeto demonstra a técnica de Lazy Loading em imagens utilizando JavaScri
 
 - **HTML5**: Estrutura da página.
 - **CSS3**: Estilização da interface.
-- **JavaScript (ES6+)**: Implementação do Lazy Load usando Intersection Observer.
+- **JavaScript**: Implementação do Lazy Load usando Intersection Observer.
 
 ## 🛠 Como Funciona
 
