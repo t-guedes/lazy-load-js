@@ -16,4 +16,5 @@ Este projeto demonstra a técnica de Lazy Loading em imagens utilizando JavaScri
 
 
 ## 📷 Preview
+
 ![Uploading lazy-load-js.png…]()
