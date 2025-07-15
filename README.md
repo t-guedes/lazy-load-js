@@ -14,3 +14,6 @@ Este projeto demonstra a técnica de Lazy Loading em imagens utilizando JavaScri
 2. Quando a imagem entra no campo de visão do usuário, o script substitui a URL da imagem para carregar uma versão em alta qualidade (`w=1000`).
 3. Isso melhora o desempenho da página, reduzindo o tempo de carregamento inicial.
 
+
+## 📷 Preview
+![Uploading lazy-load-js.png…]()
